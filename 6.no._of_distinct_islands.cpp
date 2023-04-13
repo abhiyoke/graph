@@ -4,7 +4,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
+//SC:O(n*m)
+//TC:O(n*m)+O(4*n*m)
 // } Driver Code Ends
 // User function Template for C++
 
